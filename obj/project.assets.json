@@ -1598,11 +1598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Projects/Test_MVC/Test_MVC.csproj",
+      "projectUniqueName": "/Users/user/Projects/d-data/Test_MVC.csproj",
       "projectName": "Test_MVC",
-      "projectPath": "/Users/user/Projects/Test_MVC/Test_MVC.csproj",
+      "projectPath": "/Users/user/Projects/d-data/Test_MVC.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Projects/Test_MVC/obj/",
+      "outputPath": "/Users/user/Projects/d-data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"
