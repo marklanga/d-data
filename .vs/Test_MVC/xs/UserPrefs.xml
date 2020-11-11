@@ -1,32 +1,22 @@
-﻿<Properties StartupConfiguration="{DAF20108-60E8-4294-B34B-300AC993F306}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Employee.cs">
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/ApplicationDbContext.cs">
     <Files>
-      <File FileName="Data/ApplicationDbContext.cs" Line="14" Column="10" />
-      <File FileName="Models/Employee.cs" Line="3" Column="2" />
-      <File FileName="Controllers/EmployeeController.cs" Line="29" Column="14" />
+      <File FileName="Controllers/EmployeeController.cs" Line="36" Column="1" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="17" Column="1" />
+      <File FileName="Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="14" Column="51" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Test_MVC" expanded="True">
-            <Node name="Test_MVC" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Employee.cs" selected="True" />
-              </Node>
-              <Node name="Properties" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Test_MVC" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Test__MVC PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Test_MVC.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
