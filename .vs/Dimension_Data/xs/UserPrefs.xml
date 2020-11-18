@@ -1,21 +1,17 @@
-﻿<Properties StartupConfiguration="{0414BBF4-6BFD-4E7B-81EA-4F2E369DFFF4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Dimension_Data/Views/Shared/_Layout.cshtml">
+﻿<Properties StartupConfiguration="{5D2F660E-1A91-4D28-81FB-97B8ACE94E6C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
     <Files>
-      <File FileName="Dimension_Data/Models/Employee.cs" Line="12" Column="1" />
-      <File FileName="Dimension_Data/wwwroot/css/site.css" Line="29" Column="7" />
-      <File FileName="Dimension_Data/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="Controllers/EmployeeController.cs" Line="20" Column="1" />
+      <File FileName="DataLayer/dbConnect.cs" Line="16" Column="10" />
+      <File FileName="appsettings.json" Line="1" Column="2" />
+      <File FileName="Startup.cs" Line="27" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Dimension_Data" expanded="True">
             <Node name="Dimension_Data" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
-              </Node>
-              <Node name="wwwroot" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
