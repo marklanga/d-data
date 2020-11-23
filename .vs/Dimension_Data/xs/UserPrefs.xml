@@ -1,10 +1,5 @@
 ﻿<Properties StartupConfiguration="{5D2F660E-1A91-4D28-81FB-97B8ACE94E6C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/EmployeeModel.cs">
-    <Files>
-      <File FileName="Controllers/EmployeeController.cs" Line="20" Column="1" />
-      <File FileName="DataLayer/dbConnect.cs" Line="15" Column="25" />
-      <File FileName="Models/EmployeeModel.cs" Line="10" Column="18" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -12,9 +7,10 @@
             <Node name="Dimension_Data" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="DataLayer" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="EmployeeModel.cs" selected="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
               </Node>
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
